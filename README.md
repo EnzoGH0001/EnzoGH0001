@@ -4,7 +4,7 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=EnzoGH0001&data=followers,repositories,stars,commits&theme=darkmode)]()
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AzaleeX&theme=dark&hide_border=true&type=png)](#)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EnzoGH0001&theme=dark&hide_border=true&type=png)](#)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoGH0001&layout=compact&hide_border=true&theme=dark)](#)
 
 - 🔭 I’m currently working on [Plexus Panel](https://github.com/EnzoGH0001/PlexusPanel) & [Plexus Node](https://github.com/EnzoGH0001/PlexusNode)
