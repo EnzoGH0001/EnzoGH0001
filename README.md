@@ -8,13 +8,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoGH0001&layout=compact&hide_border=true&theme=dark)](#)
 ---
 
-- 🔭 I’m currently working on [Plexus Panel](https://github.com/EnzoGH0001/PlexusPanel) & [Plexus Node](https://github.com/EnzoGH0001/PlexusNode)
+- 🔭 I’m currently working on **[Plexus Panel](https://github.com/EnzoGH0001/PlexusPanel) & [Plexus Node](https://github.com/EnzoGH0001/PlexusNode)**
 
 - 🌱 I’m currently learning **CyberSecurity**
 
-- 👯 I’m looking collaborator for [Plexus Panel](https://github.com/EnzoGH0001/PlexusPanel) & [Plexus Node](https://github.com/EnzoGH0001/PlexusNode)
+- 👯 I’m looking collaborator for **[Plexus Panel](https://github.com/EnzoGH0001/PlexusPanel) & [Plexus Node](https://github.com/EnzoGH0001/PlexusNode)**
 
-- 👨‍💻 All of my projects are available in [my portfolio](https://enzo-dev.be)
+- 👨‍💻 All of my projects are available in **[my portfolio](https://enzo-dev.be)**
 
 - 📫 How to reach me **enzo.hautenauven09@gmail.com**
 
