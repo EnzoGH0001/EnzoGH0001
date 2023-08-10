@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Enzo</h1>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=enzoeg0001&label=Profile%20views&color=0e75b6&style=flat" alt="enzoeg0001"/></p>
 <h3 align="center">A passionate backend developer from Belgium</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=enzoeg0001&label=Profile%20views&color=0e75b6&style=flat" alt="enzoeg0001" /> </p>
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=EnzoGH0001&data=followers,repositories,stars,commits&theme=darkmode)]()
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AzaleeX&theme=dark&hide_border=true&type=png)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoGH0001&layout=compact&hide_border=true&theme=dark)](#)
 
 - 🔭 I’m currently working on [Plexus Panel](https://github.com/EnzoGH0001/PlexusPanel) & [Plexus Node](https://github.com/EnzoGH0001/PlexusNode)
 
@@ -14,6 +18,10 @@
 - 📫 How to reach me **enzo.hautenauven09@gmail.com**
 
 - ⚡ Fun fact **I started developing at 9 years old!**
+
+<p align="center">
+ <img alt="github-snake" src="asset/EnzoSnake.svg" />
+</p>
 
 <h3 align="left">Languages that I use : </h3>
 <div align="center">
